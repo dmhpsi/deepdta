@@ -1,0 +1,3 @@
+Namespace(batch_size=256, binary_th=0.0, checkpoint_path='', dataset_path='data/davis/', learning_rate=0.001, log_dir='logs/1547193761.1093926/', max_seq_len=1000, max_smi_len=100, num_classes=0, num_epoch=20, num_hidden=0, num_windows=[32], problem_type=1, seq_window_lengths=[8], smi_window_lengths=[4])
+---Parameter Search-----
+epoch #1, train loss 30795145.523657415, validation loss 16659792.03752495
